@@ -1,0 +1,21 @@
+name: droptreef
+description: Flet Droptreef control
+repository: https://github.com/MyGithubAccount/droptreef/src/flutter/droptreef
+version: 0.1.0
+homepage: https://github.com/MyGithubAccount/droptreef
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flet: 0.26.0
+  flutter:
+    sdk: flutter
+  flutter_simple_treeview: ^3.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  
